@@ -1,0 +1,21 @@
+# Build outputs
+**/bin/
+**/obj/
+
+# Backup files
+*.bak
+
+# ScriptHookV files (should only be in lib/ folder)
+ScriptHookV.dll
+ScriptHookV.log
+ScriptHookVDotNet.asi
+ScriptHookVDotNet.dll
+ScriptHookVDotNet.dll.metagen
+ScriptHookVDotNet.ini
+ScriptHookVDotNet.log
+ScriptHookVDotNet.pdb
+ScriptHookVDotNet2.dll
+ScriptHookVDotNet2.pdb
+ScriptHookVDotNet3.dll
+ScriptHookVDotNet3.pdb
+ScriptHookVDotNet3.xml
