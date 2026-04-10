@@ -12,7 +12,6 @@ ExtraSunnyHorsey
 Установка:
   1. Установите Script Hook V и Script Hook V .NET в корень GTA V
   2. Скопируйте ExtraSunnyHorsey.dll в GTA V\scripts\
-  3. Запустите игру — мод установит погоду Extra Sunny и облака Horsey автоматически
 
 В GTA V\scripts\ должно быть:
   • ExtraSunnyHorsey.dll
